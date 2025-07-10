@@ -13,9 +13,6 @@
         <mxCell id="fEw6cvL6jdv8BRQX3Pze-1" value="BPM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-140" y="447" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0pnk1vDcWy87FxlHx3Ui-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TJUq0EqaipFlNP349zOz-3" target="fEw6cvL6jdv8BRQX3Pze-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="TJUq0EqaipFlNP349zOz-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="260" y="120" width="1150" height="1123" as="geometry" />
         </mxCell>
